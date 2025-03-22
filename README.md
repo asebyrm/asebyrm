@@ -4,7 +4,7 @@
 I'm a **third-year Artificial Intelligence and Data Engineering student at Istanbul Technical University (ITU)** with a strong passion for **signal processing, machine learning, and robotics**. My goal is  contribute to cutting-edge research in **AI, neuroscience, and sensor fusion**.
 
 ## 🔬 Interests  
-- 🧠 **Cognitive Computational Neuroscience**  
+- 🧠 **Cognitive Neuroscience**  
 - 🤖 **SLAM & Sensor Fusion** (Kalman Filters, Deep Learning-based Fusion, Optimization) 
 - 🔍 **Computer Vision & OpenCV**  
 - 💰 **High-Frequency Crypto Arbitrage**  
