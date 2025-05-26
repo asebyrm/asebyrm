@@ -5,7 +5,7 @@ I'm a **third-year Artificial Intelligence and Data Engineering student at Istan
 
 ## 🔬 Interests  
 - 🧠 **Cognitive Neuroscience**  
-- 🤖 **SLAM & Sensor Fusion** (Kalman Filters, Deep Learning-based Fusion, Optimization) 
+- 🤖 **Sensor Fusion** (Kalman Filters, Deep Learning-based Fusion, Optimization) 
 - 🔍 **Computer Vision & OpenCV**  
 - 💰 **High-Frequency Crypto Arbitrage**  
 
